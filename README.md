@@ -4,5 +4,4 @@
 Creado por "Nerea"
 ---
 index.html: Página principal.
-
-CAMBIADO POR EL MASTER 
+CAMBIADO POR DESARROLLO Y MASTER
