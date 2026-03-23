@@ -7,3 +7,4 @@ index.html: Página principal.
 CAMBIADO POR DESARROLLO Y MASTER
 
 cambiado desde github
+cambios desde remoto
